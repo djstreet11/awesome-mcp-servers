@@ -1105,6 +1105,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [davewind/mysql-mcp-server](https://github.com/dave-wind/mysql-mcp-server) 🏎️ 🏠 - Read-only MySQL database access.
 - [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) 🐍 🏠 - MySQL database integration with configurable access controls, schema inspection and security guidelines.
 - [devopam/MCPg](https://github.com/devopam/MCPg) [![devopam/MCPg MCP server](https://glama.ai/mcp/servers/devopam/MCPg/badges/score.svg)](https://glama.ai/mcp/servers/devopam/MCPg) 🐍 🏠 ☁️ 🍎 🪟 🐧 - PostgreSQL catalog introspection, AST-validated query execution, index tuning, natural-language SQL, and pgvector, TimescaleDB and AGE integrations.
+- [djstreet11/Rowbase](https://github.com/djstreet11/Rowbase) 🐍 🏠 🍎 🪟 🐧 - Read-only-by-default MySQL/MariaDB, PostgreSQL and SQLite access: schema and foreign keys, schema search, sampling, queries and EXPLAIN with token-efficient TOON output; writes only via previewed atomic changes.
 - [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) 📇 🏠 - Airtable database integration with schema inspection, read and write capabilities.
 - [edwinbernadus/nocodb-mcp-server](https://github.com/edwinbernadus/nocodb-mcp-server) 📇 ☁️ - NocoDB database integration with read and write capabilities.
 - [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) 📇 ☁️ - Access and query Google BigQuery databases.
